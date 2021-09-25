@@ -1,0 +1,1 @@
+flicard:debit:1.0-SNAPSHOT
